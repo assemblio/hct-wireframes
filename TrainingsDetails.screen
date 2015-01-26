@@ -4,188 +4,200 @@
   <widgets xsi:type="model:Rectangle" id="2" x="112" y="168" width="609" height="233" measuredWidth="609" measuredHeight="233">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="3" x="133" y="208" text="Start Date: " measuredWidth="84" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="3" x="133" y="208" text="Start Date: " measuredWidth="69" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="4" x="312" y="208" text="End Date:" measuredWidth="72" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="4" x="312" y="208" text="End Date:" measuredWidth="58" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="5" x="216" y="208" text="05/02/2015" measuredWidth="81" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="5" x="216" y="208" text="05/02/2015" measuredWidth="63" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="6" x="392" y="208" text="06/02/2015" measuredWidth="81" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="6" x="392" y="208" text="06/02/2015" measuredWidth="63" measuredHeight="23">
     <font/>
   </widgets>
   <widgets xsi:type="model:HLine" id="7" x="64" y="128" width="713" measuredWidth="713" measuredHeight="6"/>
-  <widgets xsi:type="model:TextField" id="8" x="448" y="94" text="username" measuredWidth="74" measuredHeight="28">
+  <widgets xsi:type="model:TextField" id="8" x="448" y="94" text="username" measuredWidth="62" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:TextField" id="9" x="528" y="94" text="password" measuredWidth="73" measuredHeight="28">
+  <widgets xsi:type="model:TextField" id="9" x="528" y="94" text="password" measuredWidth="60" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Button" id="10" x="608" y="93" text="Login" measuredWidth="57" measuredHeight="30">
+  <widgets xsi:type="model:Button" id="10" x="608" y="93" text="Login" measuredWidth="50" measuredHeight="25">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="11" x="80" y="94" text="Human Capital Tracker" measuredWidth="156" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="11" x="80" y="94" text="Human Capital Tracker" measuredWidth="127" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Combo" id="12" x="696" y="94" text="English" measuredWidth="71" measuredHeight="28">
+  <widgets xsi:type="model:Combo" id="12" x="696" y="94" text="English" measuredWidth="62" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="13" x="123" y="235" text="Description:" measuredWidth="89" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="13" x="123" y="235" text="Description:" measuredWidth="72" measuredHeight="23">
     <font bold="true"/>
   </widgets>
   <widgets xsi:type="model:Text" id="14" x="216" y="240" width="481" height="105" measuredWidth="481" measuredHeight="105" dummyText="true">
     <font size="7"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="15" x="489" y="208" text="Space left: " measuredWidth="81" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="15" x="489" y="208" text="Space left: " measuredWidth="67" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="16" x="569" y="208" text="12" measuredWidth="21" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="16" x="569" y="208" text="12" measuredWidth="17" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Button" id="17" x="623" y="360" text="Register" measuredWidth="74" measuredHeight="30">
+  <widgets xsi:type="model:Button" id="17" x="623" y="360" text="Register" measuredWidth="62" measuredHeight="25">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="18" x="133" y="176" text="Introduction to Personal Financial Management" measuredWidth="410" measuredHeight="33">
+  <widgets xsi:type="model:Label" id="18" x="133" y="176" text="Introduction to Personal Financial Management" measuredWidth="338" measuredHeight="28">
     <font size="11" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Button" id="19" x="552" y="360" text="Details" measuredWidth="66" measuredHeight="30">
+  <widgets xsi:type="model:Button" id="19" x="552" y="360" text="Details" measuredWidth="55" measuredHeight="25">
     <font/>
   </widgets>
   <widgets xsi:type="model:Rectangle" id="20" x="112" y="432" width="609" height="233" measuredWidth="609" measuredHeight="233">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="21" x="133" y="472" text="Start Date: " measuredWidth="84" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="21" x="133" y="472" text="Start Date: " measuredWidth="69" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="22" x="312" y="472" text="End Date:" measuredWidth="72" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="22" x="312" y="472" text="End Date:" measuredWidth="58" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="23" x="216" y="472" text="05/02/2015" measuredWidth="81" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="23" x="216" y="472" text="05/02/2015" measuredWidth="63" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="24" x="392" y="472" text="06/02/2015" measuredWidth="81" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="24" x="392" y="472" text="06/02/2015" measuredWidth="63" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="25" x="123" y="499" text="Description:" measuredWidth="89" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="25" x="123" y="499" text="Description:" measuredWidth="72" measuredHeight="23">
     <font bold="true"/>
   </widgets>
   <widgets xsi:type="model:Text" id="26" x="216" y="504" width="481" height="105" measuredWidth="481" measuredHeight="105" dummyText="true">
     <font size="7"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="27" x="489" y="472" text="Space left: " measuredWidth="81" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="27" x="489" y="472" text="Space left: " measuredWidth="67" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="28" x="569" y="472" text="12" measuredWidth="21" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="28" x="569" y="472" text="12" measuredWidth="17" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Button" id="29" x="623" y="624" text="Register" measuredWidth="74" measuredHeight="30">
+  <widgets xsi:type="model:Button" id="29" x="623" y="624" text="Register" measuredWidth="62" measuredHeight="25">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="30" x="133" y="440" text="Introduction to Personal Financial Management" measuredWidth="410" measuredHeight="33">
+  <widgets xsi:type="model:Label" id="30" x="133" y="440" text="Introduction to Personal Financial Management" measuredWidth="338" measuredHeight="28">
     <font size="11" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Button" id="31" x="552" y="624" text="Details" measuredWidth="66" measuredHeight="30">
+  <widgets xsi:type="model:Button" id="31" x="552" y="624" text="Details" measuredWidth="55" measuredHeight="25">
     <font/>
   </widgets>
   <widgets xsi:type="model:Rectangle" id="32" x="112" y="696" width="609" height="233" measuredWidth="609" measuredHeight="233">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="33" x="133" y="736" text="Start Date: " measuredWidth="84" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="33" x="133" y="736" text="Start Date: " measuredWidth="69" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="34" x="312" y="736" text="End Date:" measuredWidth="72" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="34" x="312" y="736" text="End Date:" measuredWidth="58" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="35" x="216" y="736" text="05/02/2015" measuredWidth="81" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="35" x="216" y="736" text="05/02/2015" measuredWidth="63" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="36" x="392" y="736" text="06/02/2015" measuredWidth="81" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="36" x="392" y="736" text="06/02/2015" measuredWidth="63" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="37" x="123" y="763" text="Description:" measuredWidth="89" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="37" x="123" y="763" text="Description:" measuredWidth="72" measuredHeight="23">
     <font bold="true"/>
   </widgets>
   <widgets xsi:type="model:Text" id="38" x="216" y="768" width="481" height="105" measuredWidth="481" measuredHeight="105" dummyText="true">
     <font size="7"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="39" x="489" y="736" text="Space left: " measuredWidth="81" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="39" x="489" y="736" text="Space left: " measuredWidth="67" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="40" x="569" y="736" text="12" measuredWidth="21" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="40" x="569" y="736" text="12" measuredWidth="17" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Button" id="41" x="623" y="888" text="Register" measuredWidth="74" measuredHeight="30">
+  <widgets xsi:type="model:Button" id="41" x="623" y="888" text="Register" measuredWidth="62" measuredHeight="25">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="42" x="133" y="704" text="Introduction to Personal Financial Management" measuredWidth="410" measuredHeight="33">
+  <widgets xsi:type="model:Label" id="42" x="133" y="704" text="Introduction to Personal Financial Management" measuredWidth="338" measuredHeight="28">
     <font size="11" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Button" id="43" x="552" y="888" text="Details" measuredWidth="66" measuredHeight="30">
+  <widgets xsi:type="model:Button" id="43" x="552" y="888" text="Details" measuredWidth="55" measuredHeight="25">
     <font/>
   </widgets>
   <widgets xsi:type="model:VScrollbar" id="44" x="758" y="135" height="828" measuredWidth="17" measuredHeight="828"/>
-  <widgets xsi:type="model:Label" id="45" x="162" y="499" measuredWidth="5" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="45" x="162" y="499" measuredWidth="5" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Window" id="46" x="133" y="320" width="561" height="433" text="Training Details" measuredWidth="561" measuredHeight="433"/>
-  <widgets xsi:type="model:Label" id="47" x="169" y="380" text="Start Date: " measuredWidth="84" measuredHeight="28">
+  <widgets xsi:type="model:Window" id="46" x="133" y="265" width="561" height="593" text="Training Details" measuredWidth="561" measuredHeight="593"/>
+  <widgets xsi:type="model:Label" id="47" x="169" y="349" text="Start Date: " measuredWidth="69" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="48" x="345" y="380" text="End Date:" measuredWidth="72" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="48" x="345" y="349" text="End Date:" measuredWidth="58" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="49" x="252" y="380" text="05/02/2015" measuredWidth="81" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="49" x="252" y="349" text="05/02/2015" measuredWidth="63" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="50" x="416" y="380" text="06/02/2015" measuredWidth="81" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="50" x="416" y="349" text="06/02/2015" measuredWidth="63" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="51" x="513" y="380" text="Space left: " measuredWidth="81" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="51" x="513" y="349" text="Space left: " measuredWidth="67" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="52" x="593" y="380" text="12" measuredWidth="21" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="52" x="593" y="349" text="12" measuredWidth="17" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="53" x="157" y="348" text="Introduction to Personal Financial Management" measuredWidth="410" measuredHeight="33">
+  <widgets xsi:type="model:Label" id="53" x="157" y="317" text="Introduction to Personal Financial Management" measuredWidth="338" measuredHeight="28">
     <font size="11" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="54" x="180" y="432" text="Location: " measuredWidth="73" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="54" x="180" y="401" text="Location: " measuredWidth="58" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="55" x="252" y="432" text="Rr. Ali Hadri nn Prishtina 10000 (Ali Hadri NN)" measuredWidth="308" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="55" x="252" y="401" text="Rr. Ali Hadri nn Prishtina 10000 (Ali Hadri NN)" measuredWidth="245" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="56" x="147" y="584" text="Description:" measuredWidth="89" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="56" x="147" y="553" text="Description:" measuredWidth="72" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Text" id="57" x="252" y="589" width="426" height="105" measuredWidth="426" measuredHeight="105" dummyText="true">
+  <widgets xsi:type="model:Text" id="57" x="252" y="558" width="426" height="105" measuredWidth="426" measuredHeight="105" dummyText="true">
     <font size="7"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="58" x="151" y="461" text="Instructor(s): " measuredWidth="102" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="58" x="151" y="430" text="Instructor(s): " measuredWidth="80" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="59" x="252" y="461" text="Nastradin Hoxha (UBT Economics), Atifete Jahjaga (UP Law)" measuredWidth="400" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="59" x="252" y="430" text="Nastradin Hoxha (UBT Economics), Atifete Jahjaga (UP Law)" measuredWidth="320" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="60" x="180" y="493" text="Agenda:" measuredWidth="63" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="60" x="180" y="462" text="Agenda:" measuredWidth="50" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Text" id="61" x="252" y="501" width="186" text="&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;" measuredWidth="186" measuredHeight="60">
+  <widgets xsi:type="model:Text" id="61" x="252" y="470" width="186" text="&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;" measuredWidth="186" measuredHeight="48">
     <font size="7"/>
   </widgets>
-  <widgets xsi:type="model:Text" id="62" x="453" y="501" width="186" text="&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;" measuredWidth="186" measuredHeight="60">
+  <widgets xsi:type="model:Text" id="62" x="453" y="470" width="186" text="&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;" measuredWidth="186" measuredHeight="48">
     <font size="7"/>
   </widgets>
-  <widgets xsi:type="model:Button" id="63" x="606" y="713" text="Register" measuredWidth="74" measuredHeight="30">
+  <widgets xsi:type="model:Button" id="63" x="609" y="823" text="Register" measuredWidth="62" measuredHeight="25">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="64" x="199" y="407" text="Time:" measuredWidth="44" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="64" x="199" y="376" text="Time:" measuredWidth="36" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="65" x="252" y="407" text="09:00 - 17:00" measuredWidth="89" measuredHeight="28">
+  <widgets xsi:type="model:Label" id="65" x="252" y="376" text="09:00 - 17:00" measuredWidth="70" measuredHeight="23">
     <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="66" x="143" y="682" width="110" text="Prerequsite-Courses:" measuredWidth="110" measuredHeight="21">
+    <font size="8" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="68" x="248" y="682" width="186" text="* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;" measuredWidth="186" measuredHeight="48">
+    <font size="7"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="69" x="143" y="758" text="Target Audience Level:" measuredWidth="122" measuredHeight="21">
+    <font size="8" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="70" x="263" y="763" width="186" text="* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;* Lorem ipsum dolor sit amet&#xA;" measuredWidth="186" measuredHeight="48">
+    <font size="7"/>
   </widgets>
   <hRuler/>
   <vRuler/>

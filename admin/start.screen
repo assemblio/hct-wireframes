@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="48" y="32" width="665" height="520" text="Browser&#xA;http://..." measuredWidth="665" measuredHeight="520"/>
+  <widgets xsi:type="model:Combo" id="2" x="279" y="133" text="Training" measuredWidth="68" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="4" x="229" y="133" text="Create a:" measuredWidth="51" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="6" x="352" y="132" text="Go!" measuredWidth="38" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="7" x="146" y="180"/>
+  <widgets xsi:type="model:HLine" id="8" x="48" y="128" width="665" measuredWidth="665" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="12" x="64" y="94" text="Human Capital Tracker - Admin Section" measuredWidth="216" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="15" x="632" y="94" text="English" measuredWidth="62" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Accordion" id="17" x="48" y="160" height="100" text="Trainings&#xA;Jobs&#xA;Users&#xA;User Settings" measuredWidth="100" measuredHeight="100" selection="0">
+    <items x="0" y="2" width="100" height="25" text="Trainings"/>
+    <items x="0" y="25" width="100" height="25" text="Jobs"/>
+    <items x="0" y="50" width="100" height="25" text="Users"/>
+    <items x="0" y="75" width="100" height="25" text="User Settings"/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="18" x="448" y="92" text="Home ,Profile , Logout" measuredWidth="173" measuredHeight="27" selection="0">
+    <font/>
+    <items x="0" y="0" width="57" height="27" text="Home "/>
+    <items x="57" y="0" width="57" height="27" text="Profile "/>
+    <items x="114" y="0" width="59" height="27" text="Logout"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="19" x="48" y="155" width="665" measuredWidth="665" measuredHeight="6"/>
+  <widgets xsi:type="model:List" id="20" x="160" y="160" width="543" height="377" text="Training One                                                                                                                     |Edit  |Delete&#xD;&#xA;|Training Two                                                                                                                     |Edit  |Delete&#xD;&#xA;Training Three                                                                                                                   |Edit  |Delete&#xD;&#xA;|Training Four                                                                                                                     |Edit  |Delete&#xD;&#xA;Training Five                                                                                                                     |Edit  |Delete&#xD;&#xA;|Training Six                                                                                                                      |Edit  |Delete&#xD;&#xA;For List, Table and Tree                                                                                                   |Edit  |Delete&#xD;&#xA;Training One                                                                                                                      |Edit  |Delete&#xD;&#xA;|Training Two                                                                                                                   |Edit  |Delete&#xD;&#xA;Training Three                                                                                                                  |Edit  |Delete&#xD;&#xA;|Training Four                                                                                                                   |Edit  |Delete&#xD;&#xA;Training Five                                                                                                                     |Edit  |Delete&#xD;&#xA;|Training Six                                                                                                                      |Edit  |Delete&#xD;&#xA;For List, Table and Tree                                                                                                   |Edit  |Delete&#xD;&#xA;Training One                                                                                                                     |Edit  |Delete&#xD;&#xA;|Training Two                                                                                                                   |Edit  |Delete&#xD;&#xA;Training Three                                                                                                                  |Edit  |Delete&#xD;&#xA;|Training Four                                                                                                                   |Edit  |Delete&#xD;&#xA;Training Five                                                                                                                     |Edit  |Delete&#xD;&#xA;|Training Six                                                                                                                      |Edit  |Delete&#xD;&#xA;For List, Table and Tree                                                                                                   |Edit  |Delete" measuredWidth="543" measuredHeight="377">
+    <font/>
+    <items x="0" y="2" width="543" height="21" text="Training One                                                                                                                     |Edit  |Delete"/>
+    <items x="0" y="23" width="543" height="21" text="|Training Two                                                                                                                     |Edit  |Delete"/>
+    <items x="0" y="44" width="543" height="21" text="Training Three                                                                                                                   |Edit  |Delete"/>
+    <items x="0" y="65" width="543" height="21" text="|Training Four                                                                                                                     |Edit  |Delete"/>
+    <items x="0" y="86" width="543" height="21" text="Training Five                                                                                                                     |Edit  |Delete"/>
+    <items x="0" y="107" width="543" height="21" text="|Training Six                                                                                                                      |Edit  |Delete"/>
+    <items x="0" y="128" width="543" height="21" text="For List, Table and Tree                                                                                                   |Edit  |Delete"/>
+    <items x="0" y="149" width="543" height="21" text="Training One                                                                                                                      |Edit  |Delete"/>
+    <items x="0" y="170" width="543" height="21" text="|Training Two                                                                                                                   |Edit  |Delete"/>
+    <items x="0" y="191" width="543" height="21" text="Training Three                                                                                                                  |Edit  |Delete"/>
+    <items x="0" y="212" width="543" height="21" text="|Training Four                                                                                                                   |Edit  |Delete"/>
+    <items x="0" y="233" width="543" height="21" text="Training Five                                                                                                                     |Edit  |Delete"/>
+    <items x="0" y="254" width="543" height="21" text="|Training Six                                                                                                                      |Edit  |Delete"/>
+    <items x="0" y="275" width="543" height="21" text="For List, Table and Tree                                                                                                   |Edit  |Delete"/>
+    <items x="0" y="296" width="543" height="21" text="Training One                                                                                                                     |Edit  |Delete"/>
+    <items x="0" y="317" width="543" height="21" text="|Training Two                                                                                                                   |Edit  |Delete"/>
+    <items x="0" y="338" width="543" height="21" text="Training Three                                                                                                                  |Edit  |Delete"/>
+    <items x="0" y="359" width="543" height="21" text="|Training Four                                                                                                                   |Edit  |Delete"/>
+    <items x="0" y="380" width="543" height="21" text="Training Five                                                                                                                     |Edit  |Delete"/>
+    <items x="0" y="401" width="543" height="21" text="|Training Six                                                                                                                      |Edit  |Delete"/>
+    <items x="0" y="422" width="543" height="21" text="For List, Table and Tree                                                                                                   |Edit  |Delete"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
