@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="48" y="32" width="665" height="520" text="Browser&#xA;http://..." measuredWidth="665" measuredHeight="520"/>
+  <widgets xsi:type="model:Combo" id="3" x="253" y="240" text="student" measuredWidth="73" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="4" x="413" y="240" text="training" measuredWidth="75" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="208" y="240" text="I am a" measuredWidth="46" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="336" y="240" text="looking for" measuredWidth="78" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="9" x="504" y="239" text="Go!" measuredWidth="43" measuredHeight="30">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="10" x="146" y="180"/>
+  <widgets xsi:type="model:HLine" id="12" x="48" y="128" width="665" measuredWidth="665" measuredHeight="6"/>
+  <widgets xsi:type="model:TextField" id="13" x="376" y="94" text="username" measuredWidth="74" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="14" x="456" y="94" text="password" measuredWidth="73" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="15" x="536" y="93" text="Login" measuredWidth="57" measuredHeight="30">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="16" x="64" y="94" text="Human Capital Tracker" measuredWidth="156" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="17" x="176" y="344" width="196" height="137" measuredWidth="196" measuredHeight="137" dummyText="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="22" x="400" y="344" width="196" height="137" measuredWidth="196" measuredHeight="137" dummyText="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="24" x="632" y="94" text="English" measuredWidth="71" measuredHeight="28">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

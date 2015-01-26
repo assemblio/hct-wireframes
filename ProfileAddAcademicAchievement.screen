@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="16" y="16" width="801" height="1089" text="Browser&#xA;http://..." measuredWidth="801" measuredHeight="1089"/>
+  <widgets xsi:type="model:Rectangle" id="2" x="88" y="144" width="649" height="193" measuredWidth="649" measuredHeight="193">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="3" x="130" y="160" text="Hello, Nastradin Hoxha!" measuredWidth="560" measuredHeight="79">
+    <font size="32"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="4" x="88" y="360" width="649" height="217" measuredWidth="649" measuredHeight="217"/>
+  <widgets xsi:type="model:Panel" id="5" x="88" y="600" width="649" height="217" measuredWidth="649" measuredHeight="217"/>
+  <widgets xsi:type="model:Panel" id="6" x="88" y="840" width="649" height="217" measuredWidth="649" measuredHeight="217"/>
+  <widgets xsi:type="model:Link" id="7" x="699" y="539" text="Edit" measuredWidth="29" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="8" x="699" y="779" text="Edit" measuredWidth="29" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="9" x="699" y="1019" text="Edit" measuredWidth="29" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="10" x="98" y="370" text="SUMMARY" measuredWidth="76" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="11" x="98" y="610" text="EXPERIENCE" measuredWidth="87" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="12" x="98" y="850" text="EDUCATION" measuredWidth="87" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="13" x="17" y="112" width="800" measuredWidth="800" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="14" x="33" y="78" text="Human Capital Tracker" measuredWidth="156" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="15" x="727" y="78" text="English" measuredWidth="71" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="16" x="664" y="78" text="Logout" measuredWidth="50" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="17" x="220" y="78" text="Profile" measuredWidth="46" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="18" x="281" y="78" text="Applications" measuredWidth="86" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Chart" id="19" x="209" y="245" width="73" height="65" measuredWidth="73" measuredHeight="65"/>
+  <widgets xsi:type="model:Label" id="20" x="296" y="264" text="Your profile is only 5% complete, let's work on it." measuredWidth="326" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="21" x="113" y="446" width="605" text="What are your motivations, goals, and objectives?" measuredWidth="605" measuredHeight="45">
+    <font size="16" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="22" x="201" y="686" width="421" text="What kind of work have you done?" measuredWidth="421" measuredHeight="45">
+    <font size="16" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="23" x="160" y="926" width="473" text="What are your academic achievements?" measuredWidth="473" measuredHeight="45">
+    <font size="16" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Window" id="24" x="240" y="344" width="352" height="507" text="Add Academic Achievement" measuredWidth="352" measuredHeight="507"/>
+  <widgets xsi:type="model:Label" id="25" x="257" y="373" text="School: " measuredWidth="57" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="26" x="257" y="440" text="Dates Attended:" measuredWidth="112" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Spinner" id="27" x="281" y="472" text="2013" measuredWidth="56" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="28" x="216" y="656" text="-" measuredWidth="11" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Spinner" id="29" x="353" y="472" text="2015" measuredWidth="56" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="30" x="281" y="400" width="288" text="University of Business Technology" measuredWidth="288" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="31" x="257" y="519" text="Degree:" measuredWidth="57" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="32" x="281" y="546" width="288" text="Master of Science (MS)" measuredWidth="288" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="33" x="257" y="659" text="Description:" measuredWidth="84" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="34" x="10" y="164" measuredWidth="8" measuredHeight="4">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="35" x="278" y="696" width="291" height="84" text="Concentration in High Layer Network Protocols and Network Security." measuredWidth="291" measuredHeight="84">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="36" x="521" y="806" text="Add" measuredWidth="48" measuredHeight="30">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="38" x="257" y="597" text="Field of Study:" measuredWidth="99" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="39" x="281" y="624" width="288" text="Computer Science" measuredWidth="288" measuredHeight="28">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

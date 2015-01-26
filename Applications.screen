@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="54" y="34" width="713" height="663" text="Browser&#xA;http://..." measuredWidth="713" measuredHeight="663"/>
+  <widgets xsi:type="model:HLine" id="7" x="54" y="121" width="713" measuredWidth="713" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="8" x="80" y="94" text="Human Capital Tracker" measuredWidth="156" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="9" x="686" y="94" text="English" measuredWidth="71" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="42" x="162" y="499" measuredWidth="5" measuredHeight="28">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="43" x="624" y="94" text="Logout" measuredWidth="50" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="44" x="267" y="94" text="Profile" measuredWidth="46" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="45" x="328" y="94" text="Applications" measuredWidth="86" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Table" id="46" x="104" y="224" width="617" text="Name,Date\nApplied, Actions&#xA;Introduction to Personal Financial Management,21/01/2015,[Details] [Unregister]&#xA;Introduction to Tax Services,21/01/2015,[Details] [Unregister]&#xA;Introduction to Tax Administration and Procedures,20/01/2015,[Details] [Unregister]&#xA;Introduction to Personal Income Tax,19/01/2015,[Details] [Unregister]" measuredWidth="617" measuredHeight="164" alternative="#eeeeee">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="49" x="193" y="166" text="trainings" measuredWidth="81" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="50" x="132" y="166" text="View the" measuredWidth="62" measuredHeight="28">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="53" x="323" y="186"/>
+  <widgets xsi:type="model:Label" id="54" x="280" y="166" text="that I've applied for:" measuredWidth="138" measuredHeight="28">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
