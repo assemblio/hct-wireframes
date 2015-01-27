@@ -18,12 +18,6 @@
   <widgets xsi:type="model:Combo" id="15" x="632" y="94" text="English" measuredWidth="62" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Accordion" id="17" x="48" y="160" height="100" text="Trainings&#xA;Jobs&#xA;Users&#xA;User Settings" measuredWidth="100" measuredHeight="100" selection="0">
-    <items x="0" y="2" width="100" height="25" text="Trainings"/>
-    <items x="0" y="25" width="100" height="25" text="Jobs"/>
-    <items x="0" y="50" width="100" height="25" text="Users"/>
-    <items x="0" y="75" width="100" height="25" text="User Settings"/>
-  </widgets>
   <widgets xsi:type="model:ButtonBar" id="18" x="448" y="92" text="Home ,Profile , Logout" measuredWidth="173" measuredHeight="27" selection="0">
     <font/>
     <items x="0" y="0" width="57" height="27" text="Home "/>
@@ -31,31 +25,16 @@
     <items x="114" y="0" width="59" height="27" text="Logout"/>
   </widgets>
   <widgets xsi:type="model:HLine" id="19" x="48" y="155" width="665" measuredWidth="665" measuredHeight="6"/>
-  <widgets xsi:type="model:List" id="20" x="160" y="160" width="543" height="377" text="Training One                                                                                                                     |Edit  |Delete&#xD;&#xA;|Training Two                                                                                                                     |Edit  |Delete&#xD;&#xA;Training Three                                                                                                                   |Edit  |Delete&#xD;&#xA;|Training Four                                                                                                                     |Edit  |Delete&#xD;&#xA;Training Five                                                                                                                     |Edit  |Delete&#xD;&#xA;|Training Six                                                                                                                      |Edit  |Delete&#xD;&#xA;For List, Table and Tree                                                                                                   |Edit  |Delete&#xD;&#xA;Training One                                                                                                                      |Edit  |Delete&#xD;&#xA;|Training Two                                                                                                                   |Edit  |Delete&#xD;&#xA;Training Three                                                                                                                  |Edit  |Delete&#xD;&#xA;|Training Four                                                                                                                   |Edit  |Delete&#xD;&#xA;Training Five                                                                                                                     |Edit  |Delete&#xD;&#xA;|Training Six                                                                                                                      |Edit  |Delete&#xD;&#xA;For List, Table and Tree                                                                                                   |Edit  |Delete&#xD;&#xA;Training One                                                                                                                     |Edit  |Delete&#xD;&#xA;|Training Two                                                                                                                   |Edit  |Delete&#xD;&#xA;Training Three                                                                                                                  |Edit  |Delete&#xD;&#xA;|Training Four                                                                                                                   |Edit  |Delete&#xD;&#xA;Training Five                                                                                                                     |Edit  |Delete&#xD;&#xA;|Training Six                                                                                                                      |Edit  |Delete&#xD;&#xA;For List, Table and Tree                                                                                                   |Edit  |Delete" measuredWidth="543" measuredHeight="377">
-    <font/>
-    <items x="0" y="2" width="543" height="21" text="Training One                                                                                                                     |Edit  |Delete"/>
-    <items x="0" y="23" width="543" height="21" text="|Training Two                                                                                                                     |Edit  |Delete"/>
-    <items x="0" y="44" width="543" height="21" text="Training Three                                                                                                                   |Edit  |Delete"/>
-    <items x="0" y="65" width="543" height="21" text="|Training Four                                                                                                                     |Edit  |Delete"/>
-    <items x="0" y="86" width="543" height="21" text="Training Five                                                                                                                     |Edit  |Delete"/>
-    <items x="0" y="107" width="543" height="21" text="|Training Six                                                                                                                      |Edit  |Delete"/>
-    <items x="0" y="128" width="543" height="21" text="For List, Table and Tree                                                                                                   |Edit  |Delete"/>
-    <items x="0" y="149" width="543" height="21" text="Training One                                                                                                                      |Edit  |Delete"/>
-    <items x="0" y="170" width="543" height="21" text="|Training Two                                                                                                                   |Edit  |Delete"/>
-    <items x="0" y="191" width="543" height="21" text="Training Three                                                                                                                  |Edit  |Delete"/>
-    <items x="0" y="212" width="543" height="21" text="|Training Four                                                                                                                   |Edit  |Delete"/>
-    <items x="0" y="233" width="543" height="21" text="Training Five                                                                                                                     |Edit  |Delete"/>
-    <items x="0" y="254" width="543" height="21" text="|Training Six                                                                                                                      |Edit  |Delete"/>
-    <items x="0" y="275" width="543" height="21" text="For List, Table and Tree                                                                                                   |Edit  |Delete"/>
-    <items x="0" y="296" width="543" height="21" text="Training One                                                                                                                     |Edit  |Delete"/>
-    <items x="0" y="317" width="543" height="21" text="|Training Two                                                                                                                   |Edit  |Delete"/>
-    <items x="0" y="338" width="543" height="21" text="Training Three                                                                                                                  |Edit  |Delete"/>
-    <items x="0" y="359" width="543" height="21" text="|Training Four                                                                                                                   |Edit  |Delete"/>
-    <items x="0" y="380" width="543" height="21" text="Training Five                                                                                                                     |Edit  |Delete"/>
-    <items x="0" y="401" width="543" height="21" text="|Training Six                                                                                                                      |Edit  |Delete"/>
-    <items x="0" y="422" width="543" height="21" text="For List, Table and Tree                                                                                                   |Edit  |Delete"/>
-  </widgets>
   <widgets xsi:type="model:VScrollbar" id="21" x="693" y="160" height="392" measuredWidth="17" measuredHeight="392"/>
+  <widgets xsi:type="model:Accordion" id="23" x="58" y="160" width="102" height="100" text="Trainings&#xD;&#xA;Jobs&#xD;&#xA;Users&#xD;&#xA;Analytics" measuredWidth="102" measuredHeight="100" selection="1">
+    <items x="0" y="2" width="102" height="25" text="Trainings"/>
+    <items x="0" y="27" width="102" height="25" text="Jobs"/>
+    <items x="0" y="50" width="102" height="25" text="Users"/>
+    <items x="0" y="75" width="102" height="25" text="Analytics"/>
+  </widgets>
+  <widgets xsi:type="model:Table" id="24" x="168" y="158" width="526" height="394" text="Training Title, Location,=. Applied {hash} v,Published, Actions&#xA;IT Essentials,Kosova,38,[x],[Edit] [View]&#xA;How to become a President,Kosova,8,[],[Edit] [View]&#xA;How to become a Manager,Kosova,63,[x],[Edit] [View]&#xA;IT Essentials,Kosova,38,[x],[Edit] [View]&#xA;How to become a President,Kosova,8,[],[Edit] [View]&#xA;How to become a Manager,Kosova,63,[x],[Edit] [View]&#xA;IT Essentials,Kosova,38,[x],[Edit] [View]&#xA;How to become a President,Kosova,8,[],[Edit] [View]&#xA;How to become a Manager,Kosova,63,[x],[Edit] [View]&#xA;IT Essentials,Kosova,38,[x],[Edit] [View]&#xA;How to become a President,Kosova,8,[],[Edit] [View]&#xA;How to become a Manager,Kosova,63,[x],[Edit] [View]&#xA;IT Essentials,Kosova,38,[x],[Edit] [View]&#xA;How to become a President,Kosova,8,[],[Edit] [View]&#xA;How to become a Manager,Kosova,63,[x],[Edit] [View]&#xA;IT Essentials,Kosova,38,[x],[Edit] [View]&#xA;How to become a President,Kosova,8,[],[Edit] [View]&#xA;How to become a Manager,Kosova,63,[x],[Edit] [View]" measuredWidth="526" measuredHeight="394" alternative="#eeeeee">
+    <font/>
+  </widgets>
   <hRuler/>
   <vRuler/>
   <font/>
