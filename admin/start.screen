@@ -55,6 +55,7 @@
     <items x="0" y="401" width="543" height="21" text="|Training Six                                                                                                                      |Edit  |Delete"/>
     <items x="0" y="422" width="543" height="21" text="For List, Table and Tree                                                                                                   |Edit  |Delete"/>
   </widgets>
+  <widgets xsi:type="model:VScrollbar" id="21" x="693" y="160" height="392" measuredWidth="17" measuredHeight="392"/>
   <hRuler/>
   <vRuler/>
   <font/>

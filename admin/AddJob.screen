@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Image" id="1" x="156" y="190"/>
+  <widgets xsi:type="model:Browser" id="2" x="16" y="16" width="713" height="929" text="Browser&#xA;http://..." measuredWidth="713" measuredHeight="929" verticalScrollbar="true"/>
+  <widgets xsi:type="model:HLine" id="3" x="16" y="112" width="713" measuredWidth="713" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="4" x="32" y="78" text="Human Capital Tracker - Admin Section" measuredWidth="216" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="5" x="648" y="78" text="English" measuredWidth="62" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="114" y="483" measuredWidth="5" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="7" x="257" y="119" text="Job" measuredWidth="42" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="8" x="336" y="117" text="Go!" measuredWidth="38" measuredHeight="25" state="focused">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Accordion" id="9" x="32" y="158" height="100" text="Trainings&#xA;Jobs&#xA;Users&#xA;User Settings" measuredWidth="100" measuredHeight="100" selection="1">
+    <items x="0" y="2" width="100" height="25" text="Trainings"/>
+    <items x="0" y="27" width="100" height="25" text="Jobs"/>
+    <items x="0" y="50" width="100" height="25" text="Users"/>
+    <items x="0" y="75" width="100" height="25" text="User Settings"/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="10" x="456" y="76" text="Home ,Profile , Logout" measuredWidth="173" measuredHeight="27" selection="0">
+    <font/>
+    <items x="0" y="0" width="57" height="27" text="Home "/>
+    <items x="57" y="0" width="57" height="27" text="Profile "/>
+    <items x="114" y="0" width="59" height="27" text="Logout"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="11" x="16" y="145" width="713" measuredWidth="713" measuredHeight="6"/>
+  <widgets xsi:type="model:List" id="12" x="148" y="157" width="543" height="788" text="Job One                                                                                                                              |Edit  |Delete&#xD;&#xA;|Job Two                                                                                                                            |Edit  |Delete&#xD;&#xA;Job Three                                                                                                                           |Edit  |Delete&#xD;&#xA;|Job Four                                                                                                                            |Edit  |Delete&#xD;&#xA;Job Five                                                                                                                              |Edit  |Delete&#xD;&#xA;|Job Six                                                                                                                               |Edit  |Delete&#xD;&#xA;For List, Table and Tree                                                                                                   |Edit  |Delete&#xD;&#xA;Job One                                                                                                                              |Edit  |Delete&#xD;&#xA;|Job Two                                                                                                                            |Edit  |Delete&#xD;&#xA;Job Three                                                                                                                           |Edit  |Delete&#xD;&#xA;|Job Four                                                                                                                            |Edit  |Delete&#xD;&#xA;Job Five                                                                                                                              |Edit  |Delete&#xD;&#xA;|Job Six                                                                                                                               |Edit  |Delete&#xD;&#xA;For List, Table and Tree                                                                                                   |Edit  |Delete&#xD;&#xA;Job One                                                                                                                              |Edit  |Delete&#xD;&#xA;|Job Two                                                                                                                            |Edit  |Delete&#xD;&#xA;Job Three                                                                                                                           |Edit  |Delete&#xD;&#xA;|Job Four                                                                                                                            |Edit  |Delete&#xD;&#xA;Job Five                                                                                                                              |Edit  |Delete&#xD;&#xA;|Job Six                                                                                                                               |Edit  |Delete&#xD;&#xA;For List, Table and Tree                                                                                                   |Edit  |Delete&#xD;&#xA;Job One                                                                                                                              |Edit  |Delete&#xD;&#xA;|Job Two                                                                                                                            |Edit  |Delete&#xD;&#xA;Job Three                                                                                                                           |Edit  |Delete&#xD;&#xA;|Job Four                                                                                                                            |Edit  |Delete&#xD;&#xA;Job Five                                                                                                                              |Edit  |Delete&#xD;&#xA;|Job Six                                                                                                                               |Edit  |Delete&#xD;&#xA;For List, Table and Tree                                                                                                   |Edit  |Delete&#xD;&#xA;Job One                                                                                                                              |Edit  |Delete&#xD;&#xA;|Job Two                                                                                                                            |Edit  |Delete&#xD;&#xA;Job Three                                                                                                                           |Edit  |Delete&#xD;&#xA;|Job Four                                                                                                                            |Edit  |Delete&#xD;&#xA;Job Five                                                                                                                              |Edit  |Delete&#xD;&#xA;|Job Six                                                                                                                               |Edit  |Delete&#xD;&#xA;For List, Table and Tree                                                                                                   |Edit  |Delete&#xD;&#xA;Job One                                                                                                                              |Edit  |Delete&#xD;&#xA;|Job Two                                                                                                                            |Edit  |Delete&#xD;&#xA;Job Three                                                                                                                           |Edit  |Delete&#xD;&#xA;|Job Four                                                                                                                            |Edit  |Delete&#xD;&#xA;Job Five                                                                                                                              |Edit  |Delete&#xD;&#xA;|Job Six                                                                                                                               |Edit  |Delete&#xD;&#xA;For List, Table and Tree                                                                                                   |Edit  |Delete" measuredWidth="543" measuredHeight="788">
+    <font/>
+    <items x="0" y="2" width="543" height="21" text="Job One                                                                                                                              |Edit  |Delete"/>
+    <items x="0" y="23" width="543" height="21" text="|Job Two                                                                                                                            |Edit  |Delete"/>
+    <items x="0" y="44" width="543" height="21" text="Job Three                                                                                                                           |Edit  |Delete"/>
+    <items x="0" y="65" width="543" height="21" text="|Job Four                                                                                                                            |Edit  |Delete"/>
+    <items x="0" y="86" width="543" height="21" text="Job Five                                                                                                                              |Edit  |Delete"/>
+    <items x="0" y="107" width="543" height="21" text="|Job Six                                                                                                                               |Edit  |Delete"/>
+    <items x="0" y="128" width="543" height="21" text="For List, Table and Tree                                                                                                   |Edit  |Delete"/>
+    <items x="0" y="149" width="543" height="21" text="Job One                                                                                                                              |Edit  |Delete"/>
+    <items x="0" y="170" width="543" height="21" text="|Job Two                                                                                                                            |Edit  |Delete"/>
+    <items x="0" y="191" width="543" height="21" text="Job Three                                                                                                                           |Edit  |Delete"/>
+    <items x="0" y="212" width="543" height="21" text="|Job Four                                                                                                                            |Edit  |Delete"/>
+    <items x="0" y="233" width="543" height="21" text="Job Five                                                                                                                              |Edit  |Delete"/>
+    <items x="0" y="254" width="543" height="21" text="|Job Six                                                                                                                               |Edit  |Delete"/>
+    <items x="0" y="275" width="543" height="21" text="For List, Table and Tree                                                                                                   |Edit  |Delete"/>
+    <items x="0" y="296" width="543" height="21" text="Job One                                                                                                                              |Edit  |Delete"/>
+    <items x="0" y="317" width="543" height="21" text="|Job Two                                                                                                                            |Edit  |Delete"/>
+    <items x="0" y="338" width="543" height="21" text="Job Three                                                                                                                           |Edit  |Delete"/>
+    <items x="0" y="359" width="543" height="21" text="|Job Four                                                                                                                            |Edit  |Delete"/>
+    <items x="0" y="380" width="543" height="21" text="Job Five                                                                                                                              |Edit  |Delete"/>
+    <items x="0" y="401" width="543" height="21" text="|Job Six                                                                                                                               |Edit  |Delete"/>
+    <items x="0" y="422" width="543" height="21" text="For List, Table and Tree                                                                                                   |Edit  |Delete"/>
+    <items x="0" y="443" width="543" height="21" text="Job One                                                                                                                              |Edit  |Delete"/>
+    <items x="0" y="464" width="543" height="21" text="|Job Two                                                                                                                            |Edit  |Delete"/>
+    <items x="0" y="485" width="543" height="21" text="Job Three                                                                                                                           |Edit  |Delete"/>
+    <items x="0" y="506" width="543" height="21" text="|Job Four                                                                                                                            |Edit  |Delete"/>
+    <items x="0" y="527" width="543" height="21" text="Job Five                                                                                                                              |Edit  |Delete"/>
+    <items x="0" y="548" width="543" height="21" text="|Job Six                                                                                                                               |Edit  |Delete"/>
+    <items x="0" y="569" width="543" height="21" text="For List, Table and Tree                                                                                                   |Edit  |Delete"/>
+    <items x="0" y="590" width="543" height="21" text="Job One                                                                                                                              |Edit  |Delete"/>
+    <items x="0" y="611" width="543" height="21" text="|Job Two                                                                                                                            |Edit  |Delete"/>
+    <items x="0" y="632" width="543" height="21" text="Job Three                                                                                                                           |Edit  |Delete"/>
+    <items x="0" y="653" width="543" height="21" text="|Job Four                                                                                                                            |Edit  |Delete"/>
+    <items x="0" y="674" width="543" height="21" text="Job Five                                                                                                                              |Edit  |Delete"/>
+    <items x="0" y="695" width="543" height="21" text="|Job Six                                                                                                                               |Edit  |Delete"/>
+    <items x="0" y="716" width="543" height="21" text="For List, Table and Tree                                                                                                   |Edit  |Delete"/>
+    <items x="0" y="737" width="543" height="21" text="Job One                                                                                                                              |Edit  |Delete"/>
+    <items x="0" y="758" width="543" height="21" text="|Job Two                                                                                                                            |Edit  |Delete"/>
+    <items x="0" y="779" width="543" height="21" text="Job Three                                                                                                                           |Edit  |Delete"/>
+    <items x="0" y="800" width="543" height="21" text="|Job Four                                                                                                                            |Edit  |Delete"/>
+    <items x="0" y="821" width="543" height="21" text="Job Five                                                                                                                              |Edit  |Delete"/>
+    <items x="0" y="842" width="543" height="21" text="|Job Six                                                                                                                               |Edit  |Delete"/>
+    <items x="0" y="863" width="543" height="21" text="For List, Table and Tree                                                                                                   |Edit  |Delete"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="13" x="200" y="119" text="Create a:" measuredWidth="51" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:SearchField" id="14" x="608" y="119" text="Search" measuredWidth="65" measuredHeight="24"/>
+  <widgets xsi:type="model:Window" id="15" x="136" y="193" width="497" height="464" text="Add a new Job Opportunity" measuredWidth="497" measuredHeight="464" minimizeButton="true" maximizeButton="true"/>
+  <widgets xsi:type="model:Label" id="17" x="175" y="277" text="End Date:" measuredWidth="58" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="19" x="193" y="245" text="Title:" measuredWidth="40" measuredHeight="28">
+    <font size="11" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="20" x="183" y="329" text="Location: " measuredWidth="58" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="21" x="158" y="483" text="Education:" measuredWidth="62" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="22" x="193" y="358" text="Salary: " measuredWidth="44" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="23" x="148" y="391" text="Requirements:" measuredWidth="87" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="24" x="554" y="632" width="53" height="21" text="Add" measuredWidth="53" measuredHeight="21" state="focused">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="25" x="202" y="304" text="Time:" measuredWidth="36" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="26" x="146" y="569" width="110" text="Required Certificates:" measuredWidth="110" measuredHeight="21">
+    <font size="8" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="28" x="233" y="481" width="375" height="88" text="Ex. Master Degree" measuredWidth="375" measuredHeight="88">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="29" x="255" y="572" width="352" height="46" text="Open Data Advocate" measuredWidth="352" measuredHeight="46">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" id="31" x="233" y="278" height="22" measuredWidth="100" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" id="34" x="233" y="305" height="22" measuredWidth="100" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" id="35" x="233" y="330" width="136" height="22" measuredWidth="136" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" id="36" x="233" y="359" width="360" height="22" measuredWidth="360" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" id="37" x="232" y="391" width="362" height="80" measuredWidth="362" measuredHeight="80">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" id="38" x="233" y="248" width="232" height="22" measuredWidth="232" measuredHeight="22">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

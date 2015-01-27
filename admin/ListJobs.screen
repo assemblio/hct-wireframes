@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Image" id="1" x="156" y="190"/>
+  <widgets xsi:type="model:Browser" id="2" x="16" y="16" width="713" height="929" text="Browser&#xA;http://..." measuredWidth="713" measuredHeight="929"/>
+  <widgets xsi:type="model:HLine" id="3" x="16" y="112" width="713" measuredWidth="713" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="4" x="32" y="78" text="Human Capital Tracker - Admin Section" measuredWidth="216" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="5" x="648" y="78" text="English" measuredWidth="62" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="114" y="483" measuredWidth="5" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="7" x="257" y="119" text="Job" measuredWidth="42" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="8" x="336" y="117" text="Go!" measuredWidth="38" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Accordion" id="9" x="32" y="158" height="100" text="Trainings&#xA;Jobs&#xA;Users&#xA;User Settings" measuredWidth="100" measuredHeight="100" selection="1">
+    <items x="0" y="2" width="100" height="25" text="Trainings"/>
+    <items x="0" y="27" width="100" height="25" text="Jobs"/>
+    <items x="0" y="50" width="100" height="25" text="Users"/>
+    <items x="0" y="75" width="100" height="25" text="User Settings"/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="10" x="456" y="76" text="Home ,Profile , Logout" measuredWidth="173" measuredHeight="27" selection="0">
+    <font/>
+    <items x="0" y="0" width="57" height="27" text="Home "/>
+    <items x="57" y="0" width="57" height="27" text="Profile "/>
+    <items x="114" y="0" width="59" height="27" text="Logout"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="11" x="16" y="145" width="713" measuredWidth="713" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="13" x="200" y="119" text="Create a:" measuredWidth="51" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:SearchField" id="14" x="608" y="119" text="Search" measuredWidth="65" measuredHeight="24"/>
+  <widgets xsi:type="model:VScrollbar" id="33" x="708" y="150" height="795" measuredWidth="17" measuredHeight="795"/>
+  <widgets xsi:type="model:Table" id="34" x="136" y="158" width="569" height="777" text="Job Title, Location,=. Applied {hash} v,Published, Actions&#xA;IT,Kosova,38,[x],[Edit] [View]&#xA;President,Kosova,8,[],[Edit] [View]&#xA;Manager,Kosova,63,[x],[Edit] [View]&#xA;IT,Kosova,38,[x],[Edit] [View]&#xA;President,Kosova,8,[],[Edit] [View]&#xA;Manager,Kosova,63,[x],[Edit] [View]&#xA;IT,Kosova,38,[x],[Edit] [View]&#xA;President,Kosova,8,[],[Edit] [View]&#xA;Manager,Kosova,63,[x],[Edit] [View]&#xA;IT,Kosova,38,[x],[Edit] [View]&#xA;President,Kosova,8,[],[Edit] [View]&#xA;Manager,Kosova,63,[x],[Edit] [View]&#xA;IT,Kosova,38,[x],[Edit] [View]&#xA;President,Kosova,8,[],[Edit] [View]&#xA;Manager,Kosova,63,[x],[Edit] [View]&#xA;IT,Kosova,38,[x],[Edit] [View]&#xA;President,Kosova,8,[],[Edit] [View]&#xA;Manager,Kosova,63,[x],[Edit] [View]&#xA;IT,Kosova,38,[x],[Edit] [View]&#xA;President,Kosova,8,[],[Edit] [View]&#xA;Manager,Kosova,63,[x],[Edit] [View]&#xA;IT,Kosova,38,[x],[Edit] [View]&#xA;President,Kosova,8,[],[Edit] [View]&#xA;Manager,Kosova,63,[x],[Edit] [View]&#xA;IT,Kosova,38,[x],[Edit] [View]&#xA;President,Kosova,8,[],[Edit] [View]&#xA;Manager,Kosova,63,[x],[Edit] [View]&#xA;IT,Kosova,38,[x],[Edit] [View]&#xA;President,Kosova,8,[],[Edit] [View]&#xA;Manager,Kosova,63,[x],[Edit] [View]&#xA;IT,Kosova,38,[x],[Edit] [View]&#xA;President,Kosova,8,[],[Edit] [View]&#xA;Manager,Kosova,63,[x],[Edit] [View]&#xA;IT,Kosova,38,[x],[Edit] [View]&#xA;President,Kosova,8,[],[Edit] [View]&#xA;Manager,Kosova,63,[x],[Edit] [View]&#xA;IT,Kosova,38,[x],[Edit] [View]&#xA;President,Kosova,8,[],[Edit] [View]&#xA;Manager,Kosova,63,[x],[Edit] [View]&#xA;" measuredWidth="569" measuredHeight="777" alternative="#eeeeee">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
