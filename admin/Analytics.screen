@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Image" id="1" x="156" y="190"/>
+  <widgets xsi:type="model:Browser" id="2" x="16" y="24" width="713" height="929" text="Browser&#xA;http://..." measuredWidth="713" measuredHeight="929"/>
+  <widgets xsi:type="model:HLine" id="3" x="16" y="112" width="713" measuredWidth="713" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="4" x="32" y="78" text="Human Capital Tracker - Admin Section" measuredWidth="216" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="5" x="648" y="78" text="English" measuredWidth="62" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="114" y="483" measuredWidth="5" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="7" x="257" y="119" text="Job" measuredWidth="42" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="8" x="336" y="117" text="Go!" measuredWidth="38" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Accordion" id="9" x="32" y="158" height="100" text="Trainings&#xD;&#xA;Jobs&#xD;&#xA;Users&#xD;&#xA;Analytics" measuredWidth="100" measuredHeight="100" selection="3">
+    <items x="0" y="2" width="100" height="25" text="Trainings"/>
+    <items x="0" y="27" width="100" height="25" text="Jobs"/>
+    <items x="0" y="52" width="100" height="25" text="Users"/>
+    <items x="0" y="77" width="100" height="25" text="Analytics"/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="10" x="456" y="76" text="Home ,Profile , Logout" measuredWidth="173" measuredHeight="27" selection="0">
+    <font/>
+    <items x="0" y="0" width="57" height="27" text="Home "/>
+    <items x="57" y="0" width="57" height="27" text="Profile "/>
+    <items x="114" y="0" width="59" height="27" text="Logout"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="11" x="16" y="145" width="713" measuredWidth="713" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="12" x="200" y="119" text="Create a:" measuredWidth="51" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:SearchField" id="13" x="608" y="119" text="Search" measuredWidth="65" measuredHeight="24"/>
+  <widgets xsi:type="model:VScrollbar" id="14" x="708" y="150" height="795" measuredWidth="17" measuredHeight="795"/>
+  <widgets xsi:type="model:Chart" id="16" x="250" y="336" width="287" height="240" measuredWidth="287" measuredHeight="240"/>
+  <widgets xsi:type="model:Chart" id="19" x="288" y="624" measuredWidth="200" measuredHeight="200" chartType="column"/>
+  <widgets xsi:type="model:Combo" id="20" x="257" y="167" width="176" text="Information Technology" measuredWidth="176" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="21" x="257" y="208" width="176" text="Master Degree" measuredWidth="176" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="22" x="257" y="246" width="176" text="1000+" measuredWidth="176" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="23" x="257" y="288" width="176" text="3+" measuredWidth="176" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="24" x="197" y="167" text="Industry:" measuredWidth="51" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="25" x="200" y="208" text="Education:" measuredWidth="61" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="26" x="197" y="246" text="Salary:" measuredWidth="39" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="27" x="197" y="288" text="Experience:" measuredWidth="64" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="28" x="10" y="29" text="Text field" measuredWidth="58" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="30" x="235" y="840" text="Distribution of Professional Skills Based on Industry" measuredWidth="279" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="31" x="235" y="592" width="290" text="Professional Experience Gender Distribution" measuredWidth="290" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
