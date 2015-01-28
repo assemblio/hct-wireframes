@@ -29,21 +29,6 @@
     <font/>
   </widgets>
   <widgets xsi:type="model:HLine" id="13" x="17" y="112" width="800" measuredWidth="800" measuredHeight="6"/>
-  <widgets xsi:type="model:Label" id="14" x="33" y="78" text="Human Capital Tracker" measuredWidth="127" measuredHeight="23">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:Combo" id="15" x="727" y="78" text="English" measuredWidth="62" measuredHeight="23">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:Link" id="16" x="664" y="78" text="Logout" measuredWidth="41" measuredHeight="23">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:Link" id="17" x="220" y="78" text="Profile" measuredWidth="37" measuredHeight="23">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:Link" id="18" x="281" y="78" text="Applications" measuredWidth="69" measuredHeight="23">
-    <font/>
-  </widgets>
   <widgets xsi:type="model:Label" id="20" x="113" y="224" text="Education: Software Engineering, University of Business and Technology" measuredWidth="385" measuredHeight="23">
     <font/>
   </widgets>
@@ -92,6 +77,18 @@
   </widgets>
   <widgets xsi:type="model:Text" id="44" x="113" y="740" width="585" height="40" text="Responsible for front-end, back-end and mobile success of multiple award wining websites generating over 50M unique views per month; TheCut.com, ScienceOfUs.com, NYMag.com, and Vulture.com." measuredWidth="585" measuredHeight="40" dummyText="true">
     <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="45" x="27" y="80" text="Human Capital Tracker - Admin Section" measuredWidth="216" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="46" x="735" y="80" text="English" measuredWidth="62" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="47" x="551" y="78" text="Home ,Profile , Logout" measuredWidth="173" measuredHeight="27" selection="0">
+    <font/>
+    <items x="0" y="0" width="57" height="27" text="Home "/>
+    <items x="57" y="0" width="57" height="27" text="Profile "/>
+    <items x="114" y="0" width="59" height="27" text="Logout"/>
   </widgets>
   <hRuler/>
   <vRuler/>
