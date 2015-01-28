@@ -26,9 +26,9 @@
   </widgets>
   <widgets xsi:type="model:HLine" id="19" x="48" y="155" width="665" measuredWidth="665" measuredHeight="6"/>
   <widgets xsi:type="model:VScrollbar" id="21" x="693" y="160" height="392" measuredWidth="17" measuredHeight="392"/>
-  <widgets xsi:type="model:Accordion" id="23" x="58" y="160" width="102" height="100" text="Trainings&#xD;&#xA;Jobs&#xD;&#xA;Users&#xD;&#xA;Analytics" measuredWidth="102" measuredHeight="100" selection="1">
+  <widgets xsi:type="model:Accordion" id="23" x="58" y="160" width="102" height="100" text="Trainings&#xD;&#xA;Jobs&#xD;&#xA;Users&#xD;&#xA;Analytics" measuredWidth="102" measuredHeight="100" selection="0">
     <items x="0" y="2" width="102" height="25" text="Trainings"/>
-    <items x="0" y="27" width="102" height="25" text="Jobs"/>
+    <items x="0" y="25" width="102" height="25" text="Jobs"/>
     <items x="0" y="50" width="102" height="25" text="Users"/>
     <items x="0" y="75" width="102" height="25" text="Analytics"/>
   </widgets>

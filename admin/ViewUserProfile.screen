@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="16" y="16" width="801" height="1057" text="Browser&#xA;http://..." measuredWidth="801" measuredHeight="1057"/>
+  <widgets xsi:type="model:Rectangle" id="2" x="88" y="144" width="649" height="193" measuredWidth="649" measuredHeight="193">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="3" x="98" y="150" text="Nastradin Hoxha!" measuredWidth="334" measuredHeight="67">
+    <font size="32"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="4" x="88" y="360" width="649" height="217" measuredWidth="649" measuredHeight="217"/>
+  <widgets xsi:type="model:Panel" id="5" x="88" y="600" width="649" height="217" measuredWidth="649" measuredHeight="217"/>
+  <widgets xsi:type="model:Panel" id="6" x="88" y="840" width="649" height="185" measuredWidth="649" measuredHeight="185"/>
+  <widgets xsi:type="model:Link" id="7" x="699" y="539" text="Edit" measuredWidth="23" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="8" x="699" y="779" text="Edit" measuredWidth="23" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="9" x="504" y="885" text="Edit" measuredWidth="23" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="10" x="98" y="370" text="SUMMARY" measuredWidth="63" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="11" x="98" y="610" text="EXPERIENCE" measuredWidth="70" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="12" x="98" y="850" text="EDUCATION" measuredWidth="71" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="13" x="17" y="112" width="800" measuredWidth="800" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="14" x="33" y="78" text="Human Capital Tracker" measuredWidth="127" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="15" x="727" y="78" text="English" measuredWidth="62" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="16" x="664" y="78" text="Logout" measuredWidth="41" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="17" x="220" y="78" text="Profile" measuredWidth="37" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="18" x="281" y="78" text="Applications" measuredWidth="69" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="20" x="113" y="224" text="Education: Software Engineering, University of Business and Technology" measuredWidth="385" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="22" x="113" y="877" text="University of Business Technology" measuredWidth="299" measuredHeight="36">
+    <font size="15"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="23" x="113" y="919" text="Master of Science (MS), Computer Science" measuredWidth="229" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="24" x="10" y="733" measuredWidth="5" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="25" x="113" y="946" text="2013-2015" measuredWidth="58" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="26" x="699" y="989" text="Add" measuredWidth="25" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="27" x="113" y="973" text="Concentration in High Layer Network Protocols and Network Security." measuredWidth="374" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="28" x="504" y="654" text="Edit" measuredWidth="23" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="29" x="113" y="648" width="585" text="Senior Software Engineer-Technical Lead" measuredWidth="585" measuredHeight="36">
+    <font size="15"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="30" x="113" y="683" text="New York Magazine" measuredWidth="110" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="31" x="113" y="712" text="2013-2015" measuredWidth="58" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="38" x="376" y="168"/>
+  <widgets xsi:type="model:Label" id="40" x="113" y="256" text="Current Job: Software Developer at Assemblio" measuredWidth="245" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="41" x="130" y="260" measuredWidth="5" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="42" x="113" y="288" text="Past Job: Human Resources Manager at Deloitte" measuredWidth="257" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="43" x="113" y="394" width="585" height="150" text="Nastradin is a technologist and internationalist with over 10 years of work experience in software engineering, analysis, design and implementation. He is experienced in various aspects of software development life cycle, object oriented application design, and development of n-tiered fullstack applications. With his strong technical background and his keen ability to quickly understand and learn, he adapts easily to change and is always expanding his capabilities. He is a linguistically and socially adept team player with strong problem solving skills.&#xD;&#xA;Nastradins’ undergraduate degree and career development in Software Engineering have been complemented with graduate studies in International Affairs at The New School University in New York City; specializing in Governance and Rights, Conflict and Security, and Post-Conflict State-Building. Georges has conducted significant academic research and work in fields that merge technology and international relations; such as Digital Diplomacy, Digital State-Building and Cyber Warfare." measuredWidth="585" measuredHeight="150" dummyText="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="44" x="113" y="740" width="585" height="40" text="Responsible for front-end, back-end and mobile success of multiple award wining websites generating over 50M unique views per month; TheCut.com, ScienceOfUs.com, NYMag.com, and Vulture.com." measuredWidth="585" measuredHeight="40" dummyText="true">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
