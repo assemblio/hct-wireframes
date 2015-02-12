@@ -86,9 +86,6 @@
   <widgets xsi:type="model:Label" id="21" x="146" y="505" text="Requirements:" measuredWidth="87" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="22" x="193" y="358" text="Salary: " measuredWidth="44" measuredHeight="23">
-    <font bold="true"/>
-  </widgets>
   <widgets xsi:type="model:Label" id="23" x="162" y="391" text="Description:" measuredWidth="72" measuredHeight="23">
     <font bold="true"/>
   </widgets>
@@ -99,9 +96,6 @@
     <font/>
   </widgets>
   <widgets xsi:type="model:Rectangle" id="35" x="233" y="330" width="136" height="22" measuredWidth="136" measuredHeight="22">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:Rectangle" id="36" x="233" y="359" width="360" height="22" measuredWidth="360" measuredHeight="22">
     <font/>
   </widgets>
   <widgets xsi:type="model:Rectangle" id="37" x="232" y="391" width="362" height="93" measuredWidth="362" measuredHeight="93">
