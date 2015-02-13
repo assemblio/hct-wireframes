@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="16" y="16" width="769" height="521" text="Browser&#xA;http://..." measuredWidth="769" measuredHeight="521"/>
+  <widgets xsi:type="model:List" id="2" x="26" y="138" width="89" height="197" text="Create&#xA;Search/View&#xA;-Alert&#xA;-History&#xA;-Reports" measuredWidth="89" measuredHeight="197" selection="0">
+    <font/>
+    <items x="0" y="2" width="89" height="21" text="Create"/>
+    <items x="0" y="23" width="89" height="21" text="Search/View"/>
+    <items x="0" y="44" width="89" height="21" text="-Alert"/>
+    <items x="0" y="65" width="89" height="21" text="-History"/>
+    <items x="0" y="86" width="89" height="21" text="-Reports"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="3" x="552" y="68" text="Logged in as : " measuredWidth="81" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="4" x="632" y="68" text="Nastradin Hoxha." measuredWidth="94" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="5" x="26" y="77" width="145" text="Deloitte Internal HTC" measuredWidth="145" measuredHeight="29">
+    <font size="12"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" id="6" x="280" y="80" text="Requisition, Applicant, Reports" measuredWidth="193" measuredHeight="23" selection="0">
+    <font/>
+    <items x="0" y="0" width="61" height="23" text="Requisition"/>
+    <items x="79" y="0" width="53" height="23" text="Applicant"/>
+    <items x="150" y="0" width="42" height="23" text="Reports"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="7" x="16" y="105" width="769" measuredWidth="769" measuredHeight="6"/>
+  <widgets xsi:type="model:Breadcrumbs" id="8" x="26" y="110" text="Requisition, Create, Attachment" measuredWidth="199" measuredHeight="23">
+    <font/>
+    <items x="0" y="0" width="59" height="23" text="Requisition"/>
+    <items x="79" y="0" width="34" height="23" text="Create"/>
+    <items x="133" y="0" width="63" height="23" text="Attachment"/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="9" x="738" y="68" text="Logout" measuredWidth="41" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="10" x="16" y="127" width="769" measuredWidth="769" measuredHeight="6"/>
+  <widgets xsi:type="model:LinkBar" id="11" x="158" y="138" text="General, Job profile, Job Compensation, Job Prescreening, Attachment, Requisition Actions" measuredWidth="551" measuredHeight="23" selection="4">
+    <font/>
+    <items x="0" y="0" width="42" height="23" text="General"/>
+    <items x="60" y="0" width="57" height="23" text="Job profile"/>
+    <items x="135" y="0" width="101" height="23" text="Job Compensation"/>
+    <items x="254" y="0" width="91" height="23" text="Job Prescreening"/>
+    <items x="363" y="0" width="65" height="23" text="Attachment"/>
+    <items x="446" y="0" width="104" height="23" text="Requisition Actions"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="12" x="724" y="502" text="Next >" measuredWidth="55" measuredHeight="25" background="#134f5c">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="29" x="544" y="216" text="Add attachment" measuredWidth="106" measuredHeight="25" background="#134f5c">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="30" x="212" y="176" text="Attachment.pdf" measuredWidth="87" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="32" x="304" y="176" text="has been added to the requisition." measuredWidth="184" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="33" x="192" y="176" measuredWidth="21" measuredHeight="23" selected="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Window" id="34" x="170" y="248" width="391" height="255" text="Browse for the attachment" measuredWidth="391" measuredHeight="255"/>
+  <widgets xsi:type="model:Tree" id="35" x="170" y="264" width="391" height="206" text="Folder One&#xA;-Folder Two&#xA;--File One&#xA;--[x] Attachment.pdf&#xA;--[x] SecondAttachment.pdf&#xA;--File Two&#xA;v Collapse Arrow&#xA;-[>] Closed Folder&#xA;-[v] Open Folder&#xA;> Expand Arrow&#xA;[-] Collapse&#xA;-[+] Expand&#xA;[] You can have&#xA;[x] Checkboxes&#xA;() And even radio buttons&#xA;{attachment} Or just any other icon&#xA;[_] And no icon too" measuredWidth="391" measuredHeight="206">
+    <items x="0" y="5" width="391" height="21" text="Folder One"/>
+    <items x="0" y="26" width="391" height="21" text="-Folder Two"/>
+    <items x="0" y="47" width="391" height="21" text="--File One"/>
+    <items x="0" y="68" width="391" height="21" text="--[x] Attachment.pdf"/>
+    <items x="0" y="89" width="391" height="21" text="--[x] SecondAttachment.pdf"/>
+    <items x="0" y="110" width="391" height="21" text="--File Two"/>
+    <items x="0" y="131" width="391" height="21" text="v Collapse Arrow"/>
+    <items x="0" y="152" width="391" height="21" text="-[>] Closed Folder"/>
+    <items x="0" y="173" width="391" height="21" text="-[v] Open Folder"/>
+    <items x="0" y="194" width="391" height="21" text="> Expand Arrow"/>
+    <items x="0" y="215" width="391" height="21" text="[-] Collapse"/>
+    <items x="0" y="236" width="391" height="21" text="-[+] Expand"/>
+    <items x="0" y="257" width="391" height="21" text="[] You can have"/>
+    <items x="0" y="278" width="391" height="21" text="[x] Checkboxes"/>
+    <items x="0" y="299" width="391" height="21" text="() And even radio buttons"/>
+    <items x="0" y="320" width="391" height="21" text="{attachment} Or just any other icon"/>
+    <items x="0" y="341" width="391" height="21" text="[_] And no icon too"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="36" x="336" y="469" text="Attach" measuredWidth="55" measuredHeight="25" background="#134f5c">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

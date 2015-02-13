@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="16" y="16" width="769" height="521" text="Browser&#xA;http://..." measuredWidth="769" measuredHeight="521"/>
+  <widgets xsi:type="model:List" id="6" x="26" y="138" width="89" height="197" text="Create&#xA;Search/View&#xA;-Alert&#xA;-History&#xA;-Reports" measuredWidth="89" measuredHeight="197" selection="0">
+    <font/>
+    <items x="0" y="2" width="89" height="21" text="Create"/>
+    <items x="0" y="23" width="89" height="21" text="Search/View"/>
+    <items x="0" y="44" width="89" height="21" text="-Alert"/>
+    <items x="0" y="65" width="89" height="21" text="-History"/>
+    <items x="0" y="86" width="89" height="21" text="-Reports"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="552" y="68" text="Logged in as : " measuredWidth="81" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="8" x="632" y="68" text="Nastradin Hoxha." measuredWidth="94" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="9" x="26" y="77" width="145" text="Deloitte Internal HTC" measuredWidth="145" measuredHeight="29">
+    <font size="12"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" id="12" x="280" y="80" text="Requisition, Applicant, Reports" measuredWidth="193" measuredHeight="23" selection="0">
+    <font/>
+    <items x="0" y="0" width="61" height="23" text="Requisition"/>
+    <items x="79" y="0" width="53" height="23" text="Applicant"/>
+    <items x="150" y="0" width="42" height="23" text="Reports"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="14" x="16" y="105" width="769" measuredWidth="769" measuredHeight="6"/>
+  <widgets xsi:type="model:Breadcrumbs" id="15" x="26" y="110" text="Requisition, Create, General" measuredWidth="176" measuredHeight="23">
+    <font/>
+    <items x="0" y="0" width="59" height="23" text="Requisition"/>
+    <items x="79" y="0" width="34" height="23" text="Create"/>
+    <items x="133" y="0" width="40" height="23" text="General"/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="16" x="738" y="68" text="Logout" measuredWidth="41" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="17" x="16" y="127" width="769" measuredWidth="769" measuredHeight="6"/>
+  <widgets xsi:type="model:LinkBar" id="18" x="158" y="138" text="General, Job profile, Job Compensation, Job Prescreening, Attachment, Requisition Actions" measuredWidth="551" measuredHeight="23" selection="0">
+    <font/>
+    <items x="0" y="0" width="42" height="23" text="General"/>
+    <items x="60" y="0" width="57" height="23" text="Job profile"/>
+    <items x="135" y="0" width="101" height="23" text="Job Compensation"/>
+    <items x="254" y="0" width="91" height="23" text="Job Prescreening"/>
+    <items x="363" y="0" width="65" height="23" text="Attachment"/>
+    <items x="446" y="0" width="104" height="23" text="Requisition Actions"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="19" x="724" y="502" text="Next >" measuredWidth="55" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="20" x="158" y="176" text="Requisition ID:" measuredWidth="81" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="21" x="158" y="216" text="Requisition Title:" measuredWidth="93" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="22" x="158" y="256" text="Justification for posting:" measuredWidth="132" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="23" x="158" y="296" text="Number of openings:" measuredWidth="118" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="24" x="158" y="336" text="User group/individual:" measuredWidth="123" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="25" x="158" y="376" text="Hiring manager:" measuredWidth="91" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="26" x="158" y="416" text="Requisition kind:" measuredWidth="93" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="27" x="158" y="456" text="Recruiter:" measuredWidth="55" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="28" x="312" y="176" width="233" text="#123456" measuredWidth="233" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="29" x="312" y="216" width="233" text="IT Technician" measuredWidth="233" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="31" x="312" y="296" width="233" text="20" measuredWidth="233" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="33" x="312" y="376" width="233" text="Nastradin Hoxha" measuredWidth="233" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="35" x="312" y="456" width="233" text="Nastradin Hoxha" measuredWidth="233" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="36" x="312" y="416" width="233" text="Internal" measuredWidth="233" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="37" x="312" y="336" width="233" text="IT Department" measuredWidth="233" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="38" x="312" y="256" width="233" text="New position" measuredWidth="233" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

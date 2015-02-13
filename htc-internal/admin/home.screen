@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model:Screen xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="16" y="16" width="769" height="521" text="Browser&#xA;http://..." measuredWidth="769" measuredHeight="521"/>
+  <widgets xsi:type="model:Accordion" id="2" x="26" y="128" width="759" height="393" text="Requisition Info&#xA;Expanded Info&#xA;Diagnostics" measuredWidth="759" measuredHeight="393" selection="1">
+    <items x="0" y="2" width="759" height="25" text="Requisition Info"/>
+    <items x="0" y="27" width="759" height="25" text="Expanded Info"/>
+    <items x="0" y="368" width="759" height="25" text="Diagnostics"/>
+  </widgets>
+  <widgets xsi:type="model:Menu" id="3" x="16" y="96" width="769" text="&amp;~Requisition~,&amp;Applicant,&amp;Example1,&amp;Example2,&amp;Example3" measuredWidth="769" measuredHeight="27">
+    <items x="5" y="0" width="85" height="27" text="&amp;~Requisition~"/>
+    <items x="90" y="0" width="61" height="27" text="&amp;Applicant"/>
+    <items x="151" y="0" width="60" height="27" text="&amp;Example1"/>
+    <items x="211" y="0" width="60" height="27" text="&amp;Example2"/>
+    <items x="271" y="0" width="60" height="27" text="&amp;Example3"/>
+  </widgets>
+  <widgets xsi:type="model:TabbedPane" id="4" x="26" y="178" width="619" height="319" text="Requisition,Alert, Attachment, History, Reports" measuredWidth="619" measuredHeight="319" selection="0">
+    <items x="10" y="0" width="79" height="27" text="Requisition"/>
+    <items x="89" y="0" width="45" height="27" text="Alert"/>
+    <items x="134" y="0" width="83" height="27" text="Attachment"/>
+    <items x="217" y="0" width="58" height="27" text="History"/>
+    <items x="275" y="0" width="60" height="27" text="Reports"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TabbedPane" id="5" x="26" y="204" width="749" height="283" text="General, Job Profile,Job Compensation, Requisition Actions" measuredWidth="749" measuredHeight="283" selection="0">
+    <items x="10" y="0" width="60" height="27" text="General"/>
+    <items x="70" y="0" width="75" height="27" text="Job Profile"/>
+    <items x="145" y="0" width="119" height="27" text="Job Compensation"/>
+    <items x="264" y="0" width="122" height="27" text="Requisition Actions"/>
+    <font/>
+  </widgets>
   <hRuler/>
   <vRuler/>
   <font/>

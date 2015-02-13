@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="16" y="16" width="769" height="497" text="Browser&#xA;http://..." measuredWidth="769" measuredHeight="497"/>
+  <widgets xsi:type="model:List" id="2" x="26" y="138" width="89" height="197" text="Create&#xA;Search/View&#xA;Reports&#xA;-Alerts&#xA;-History&#xA;-Reports" measuredWidth="89" measuredHeight="197" selection="0">
+    <font/>
+    <items x="0" y="2" width="89" height="21" text="Create"/>
+    <items x="0" y="23" width="89" height="21" text="Search/View"/>
+    <items x="0" y="44" width="89" height="21" text="Reports"/>
+    <items x="0" y="65" width="89" height="21" text="-Alerts"/>
+    <items x="0" y="86" width="89" height="21" text="-History"/>
+    <items x="0" y="107" width="89" height="21" text="-Reports"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="3" x="552" y="68" text="Logged in as : " measuredWidth="81" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="4" x="632" y="68" text="Nastradin Hoxha." measuredWidth="94" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="5" x="26" y="77" width="145" text="Deloitte Internal HTC" measuredWidth="145" measuredHeight="29">
+    <font size="12"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" id="6" x="280" y="80" text="Requisition, Applicant, Reports" measuredWidth="193" measuredHeight="23" selection="0">
+    <font/>
+    <items x="0" y="0" width="61" height="23" text="Requisition"/>
+    <items x="79" y="0" width="53" height="23" text="Applicant"/>
+    <items x="150" y="0" width="42" height="23" text="Reports"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="7" x="16" y="105" width="769" measuredWidth="769" measuredHeight="6"/>
+  <widgets xsi:type="model:Breadcrumbs" id="8" x="26" y="110" text="Requisition, Search/View, 123456" measuredWidth="203" measuredHeight="23">
+    <font/>
+    <items x="0" y="0" width="59" height="23" text="Requisition"/>
+    <items x="79" y="0" width="65" height="23" text="Search/View"/>
+    <items x="164" y="0" width="36" height="23" text="123456"/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="9" x="738" y="68" text="Logout" measuredWidth="41" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="10" x="16" y="127" width="769" measuredWidth="769" measuredHeight="6"/>
+  <widgets xsi:type="model:Text" id="11" x="322" y="109" width="463" height="25" text="You are viewing requisition nr #123456, Title: IT Technician, Recruiter: Nastradin Hoxha" measuredWidth="463" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" id="12" x="152" y="138" text="Requisition Info, Alert, History, Report" measuredWidth="244" measuredHeight="23" selection="3">
+    <font/>
+    <items x="0" y="0" width="85" height="23" text="Requisition Info"/>
+    <items x="103" y="0" width="27" height="23" text="Alert"/>
+    <items x="148" y="0" width="40" height="23" text="History"/>
+    <items x="206" y="0" width="37" height="23" text="Report"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="41" x="16" y="16" width="769" height="521" text="Browser&#xA;http://..." measuredWidth="769" measuredHeight="521"/>
+  <widgets xsi:type="model:List" id="3" x="26" y="138" width="89" height="197" text="Create&#xA;Search/View&#xA;-Alert&#xA;-History&#xA;-Reports" measuredWidth="89" measuredHeight="197" selection="0">
+    <font/>
+    <items x="0" y="2" width="89" height="21" text="Create"/>
+    <items x="0" y="23" width="89" height="21" text="Search/View"/>
+    <items x="0" y="44" width="89" height="21" text="-Alert"/>
+    <items x="0" y="65" width="89" height="21" text="-History"/>
+    <items x="0" y="86" width="89" height="21" text="-Reports"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="4" x="552" y="68" text="Logged in as : " measuredWidth="81" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="5" x="632" y="68" text="Nastradin Hoxha." measuredWidth="94" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="26" y="77" width="145" text="Deloitte Internal HTC" measuredWidth="145" measuredHeight="29">
+    <font size="12"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" id="7" x="280" y="80" text="Requisition, Applicant, Reports" measuredWidth="193" measuredHeight="23" selection="0">
+    <font/>
+    <items x="0" y="0" width="61" height="23" text="Requisition"/>
+    <items x="79" y="0" width="53" height="23" text="Applicant"/>
+    <items x="150" y="0" width="42" height="23" text="Reports"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="8" x="16" y="105" width="769" measuredWidth="769" measuredHeight="6"/>
+  <widgets xsi:type="model:Breadcrumbs" id="9" x="26" y="110" text="Requisition, Create,  Job Prescreening" measuredWidth="228" measuredHeight="23">
+    <font/>
+    <items x="0" y="0" width="59" height="23" text="Requisition"/>
+    <items x="79" y="0" width="34" height="23" text="Create"/>
+    <items x="133" y="0" width="92" height="23" text=" Job Prescreening"/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="10" x="738" y="68" text="Logout" measuredWidth="41" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="11" x="16" y="127" width="769" measuredWidth="769" measuredHeight="6"/>
+  <widgets xsi:type="model:LinkBar" id="12" x="158" y="138" text="General, Job profile, Job Compensation, Job Prescreening, Attachment, Requisition Actions" measuredWidth="551" measuredHeight="23" selection="3">
+    <font/>
+    <items x="0" y="0" width="42" height="23" text="General"/>
+    <items x="60" y="0" width="57" height="23" text="Job profile"/>
+    <items x="135" y="0" width="101" height="23" text="Job Compensation"/>
+    <items x="254" y="0" width="91" height="23" text="Job Prescreening"/>
+    <items x="363" y="0" width="65" height="23" text="Attachment"/>
+    <items x="446" y="0" width="104" height="23" text="Requisition Actions"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="13" x="724" y="502" text="Next >" measuredWidth="55" measuredHeight="25" background="#134f5c">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="14" x="158" y="176" text="Competencies:" measuredWidth="84" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="30" x="440" y="176" measuredWidth="21" measuredHeight="23" selected="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="31" x="264" y="176" width="169" text="Competence 1" measuredWidth="169" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="32" x="440" y="208" measuredWidth="21" measuredHeight="23" selected="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="33" x="264" y="208" width="169" text="Competence 2" measuredWidth="169" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="34" x="440" y="240" measuredWidth="21" measuredHeight="23" selected="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="35" x="264" y="240" width="169" text="Competence 3" measuredWidth="169" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="36" x="440" y="272" measuredWidth="21" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="37" x="264" y="272" width="169" text="Competence 4" measuredWidth="169" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="38" x="440" y="304" measuredWidth="21" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="39" x="264" y="304" width="169" text="Competence 5" measuredWidth="169" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="40" x="425" y="344" text="Add new competence" measuredWidth="136" measuredHeight="25">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
