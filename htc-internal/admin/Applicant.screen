@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="16" y="16" width="769" height="841" text="Browser&#xA;http://..." measuredWidth="769" measuredHeight="841"/>
+  <widgets xsi:type="model:List" id="2" x="26" y="138" width="89" height="197" text="Add&#xA;View&#xA;&#xA;" measuredWidth="89" measuredHeight="197" selection="1">
+    <font/>
+    <items x="0" y="2" width="89" height="21" text="Add"/>
+    <items x="0" y="23" width="89" height="21" text="View"/>
+    <items x="0" y="44" width="89" height="21"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="3" x="552" y="68" text="Logged in as : " measuredWidth="81" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="4" x="632" y="68" text="Nastradin Hoxha." measuredWidth="94" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="5" x="26" y="77" width="145" text="Deloitte Internal HTC" measuredWidth="145" measuredHeight="29">
+    <font size="12"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" id="6" x="280" y="80" text="Requisition, Applicant, Reports" measuredWidth="193" measuredHeight="23" selection="1">
+    <font/>
+    <items x="0" y="0" width="61" height="23" text="Requisition"/>
+    <items x="79" y="0" width="53" height="23" text="Applicant"/>
+    <items x="150" y="0" width="42" height="23" text="Reports"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="7" x="16" y="105" width="769" measuredWidth="769" measuredHeight="6"/>
+  <widgets xsi:type="model:Breadcrumbs" id="8" x="26" y="110" text="Applicant" measuredWidth="54" measuredHeight="23">
+    <font/>
+    <items x="0" y="0" width="51" height="23" text="Applicant"/>
+  </widgets>
+  <widgets xsi:type="model:Link" id="9" x="738" y="68" text="Logout" measuredWidth="41" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="10" x="16" y="127" width="769" measuredWidth="769" measuredHeight="6"/>
+  <widgets xsi:type="model:Table" id="29" x="128" y="168" width="639" height="679" text="Name,Last\nName,=. Reg. Id v, Adress v,Email v,Status v,Recruiter v,Level of comp., Actions&#xA;Peter,Severin,123456,Rr. Prishtines, example@e.com,Internal,Nastradini,Draft, [View]&#xA;Henri,Severin,123456,Rr. Prishtines,example@e.com ,Internal,Nastradini,Completed, [View]&#xA;Olga,Severin,123456,Rr. Prishtines, example@e.com,Internal,Nastradini,Completed, [View]&#xA;Peter,Severin,123456,Rr. Prishtines, example@e.com,Internal,Nastradini+,Completed, [View]&#xA;Henri,Severin,123456,Rr. Prishtines,example@e.com ,Internal,Nastradini,Completed, [View]&#xA;Olga,Severin,123456,Rr. Prishtines, example@e.com,External,Nastradini,Completed, [View]&#xA;Peter,Severin,123456,Rr. Prishtines, example@e.com,External,Nastradini+,Completed, [View]&#xA;Henri,Severin,123456,Rr. Prishtines,example@e.com ,External,Nastradini,Completed, [View]&#xA;Olga,Severin,123456,Rr. Prishtines, example@e.com,External,Nastradini,Completed, [View]&#xA;Peter,Severin,123456,Rr. Prishtines, example@e.com,External,Nastradini+,Completed, [View]&#xA;Henri,Severin,123456,Rr. Prishtines,example@e.com ,External,Nastradini,Completed, [View]&#xA;Olga,Severin,123456,Rr. Prishtines, example@e.com,External,Nastradini,Completed, [View]&#xA;Peter,Severin,123456,Rr. Ferizajt, example@e.com,External,Nastradini,Completed, [View]&#xA;Henri,Severin,123456,Rr. Ferizajt,example@e.com ,External,Nastradini,Completed, [View]&#xA;Olga,Severin,123456, Rr. Ferizajt, example@e.com,External,Nastradini,Completed, [View]&#xA;Peter,Severin,123456,Rr. Ferizajt, example@e.com,External,Nastradini+,Completed, [View]&#xA;Henri,Severin,123456,Rr. Ferizajt,example@e.com ,External,Nastradini,Completed, [View]&#xA;Olga,Severin,123456,Rr. Ferizajt, example@e.com,External,Nastradini,Completed, [View]&#xA;Peter,Severin,123456,Rr. Ferizajt, example@e.com,External,Nastradini+,Completed, [View]&#xA;Henri,Severin,123456,Rr. Ferizajt,example@e.com ,External,Nastradini,Completed, [View]&#xA;Olga,Severin,123456,Rr. Ferizajt, example@e.com,External,Nastradini,Completed, [View]&#xA;Peter,Severin,123456,Rr. Ferizajt, example@e.com,External,Nastradini+,Completed, [View]&#xA;Henri,Severin,8,Rr. Ferizajt,example@e.com ,External,Nastradini,Completed, [View]&#xA;Olga,Severin,63,Rr. Ferizajtl, example@e.com,External,Nastradini,Completed, [View]&#xA;Peter,Severin,38,Rr. Ferizajt, example@e.com,External,Nastradini+,Completed, [View]&#xA;Henri,Severin,8,Rr. Ferizajt,example@e.com ,External,Nastradini,Completed, [View]&#xA;Olga,Severin,63,Rr. Ferizajt, example@e.com,External,Nastradini,Completed, [View]&#xA;Peter,Severin,38,Rr. Ferizajt, example@e.com,External,Nastradini,Completed, [View]&#xA;Henri,Severin,8,Rr. Ferizajt,example@e.com ,External,Nastradini,Completed, [View]&#xA;Olga,Severin,63,Rr. Ferizajt, example@e.com,External,Nastradini,Completed, [View]&#xA;Peter,Severin,38,Rr. Ferizajt, example@e.com,External,Nastradini+,Completed, [View]&#xA;Henri,Severin,8,Rr. Ferizajt,example@e.com ,External,Nastradini,Completed, [View]&#xA;Olga,Severin,63,Rr. Ferizajt, example@e.com,External,Nastradini,Completed, [View]&#xA;" measuredWidth="639" measuredHeight="679" alternative="#eeeeee">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:SearchField" id="30" x="248" y="138" width="385" text="Search" measuredWidth="385" measuredHeight="24"/>
+  <widgets xsi:type="model:Button" id="31" x="673" y="139" text="Search" measuredWidth="55" measuredHeight="25">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
