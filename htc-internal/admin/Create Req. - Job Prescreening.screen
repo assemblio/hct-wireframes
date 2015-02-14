@@ -50,37 +50,13 @@
   <widgets xsi:type="model:Label" id="14" x="158" y="176" text="Competencies:" measuredWidth="84" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Checkbox" id="30" x="440" y="176" measuredWidth="21" measuredHeight="23" selected="true">
-    <font/>
-  </widgets>
   <widgets xsi:type="model:TextField" id="31" x="264" y="176" width="169" text="Competence 1" measuredWidth="169" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Checkbox" id="32" x="440" y="208" measuredWidth="21" measuredHeight="23" selected="true">
-    <font/>
+  <widgets xsi:type="model:Label" id="42" x="440" y="160" text="+" measuredWidth="23" measuredHeight="45">
+    <font size="20"/>
   </widgets>
-  <widgets xsi:type="model:TextField" id="33" x="264" y="208" width="169" text="Competence 2" measuredWidth="169" measuredHeight="23">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:Checkbox" id="34" x="440" y="240" measuredWidth="21" measuredHeight="23" selected="true">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:TextField" id="35" x="264" y="240" width="169" text="Competence 3" measuredWidth="169" measuredHeight="23">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:Checkbox" id="36" x="440" y="272" measuredWidth="21" measuredHeight="23">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:TextField" id="37" x="264" y="272" width="169" text="Competence 4" measuredWidth="169" measuredHeight="23">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:Checkbox" id="38" x="440" y="304" measuredWidth="21" measuredHeight="23">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:TextField" id="39" x="264" y="304" width="169" text="Competence 5" measuredWidth="169" measuredHeight="23">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:Button" id="40" x="425" y="344" text="Add new competence" measuredWidth="136" measuredHeight="25">
+  <widgets xsi:type="model:Button" id="43" x="419" y="264" text="Save" measuredWidth="44" measuredHeight="25">
     <font/>
   </widgets>
   <hRuler/>

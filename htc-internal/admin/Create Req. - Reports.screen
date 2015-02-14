@@ -46,6 +46,25 @@
     <items x="148" y="0" width="40" height="23" text="History"/>
     <items x="206" y="0" width="37" height="23" text="Report"/>
   </widgets>
+  <widgets xsi:type="model:Combo" id="13" x="152" y="192" text="Send an email to a list of applicants" measuredWidth="210" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="14" x="432" y="456" text="Send" measuredWidth="46" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Group" id="15" x="152" y="352" width="326" height="97" text="Message" measuredWidth="326" measuredHeight="97">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Group" id="17" x="152" y="215" width="326" height="130" text="Group" measuredWidth="326" measuredHeight="130">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="18" x="152" y="232" text="[x] selected&#xA;[ ] not selected&#xA;~[ ] disabled~&#xA;~[x] disabled and selected~" measuredWidth="142" measuredHeight="92" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="142" height="22" text="[x] selected"/>
+    <items x="0" y="24" width="142" height="22" text="[ ] not selected"/>
+    <items x="0" y="46" width="142" height="22" text="~[ ] disabled~"/>
+    <items x="0" y="68" width="142" height="22" text="~[x] disabled and selected~"/>
+  </widgets>
   <hRuler/>
   <vRuler/>
   <font/>

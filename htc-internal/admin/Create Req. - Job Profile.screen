@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Browser" id="1" x="16" y="16" width="769" height="625" text="Browser&#xA;http://..." measuredWidth="769" measuredHeight="625"/>
+  <widgets xsi:type="model:Browser" id="1" x="16" y="16" width="769" height="713" text="Browser&#xA;http://..." measuredWidth="769" measuredHeight="713"/>
   <widgets xsi:type="model:List" id="2" x="26" y="138" width="89" height="197" text="Create&#xA;Search/View&#xA;-Alert&#xA;-History&#xA;-Reports" measuredWidth="89" measuredHeight="197" selection="0">
     <font/>
     <items x="0" y="2" width="89" height="21" text="Create"/>
@@ -44,7 +44,7 @@
     <items x="363" y="0" width="65" height="23" text="Attachment"/>
     <items x="446" y="0" width="104" height="23" text="Requisition Actions"/>
   </widgets>
-  <widgets xsi:type="model:Button" id="12" x="725" y="608" text="Next >" measuredWidth="55" measuredHeight="25" background="#45818e">
+  <widgets xsi:type="model:Button" id="12" x="720" y="688" text="Next >" measuredWidth="55" measuredHeight="25" background="#45818e">
     <font/>
   </widgets>
   <widgets xsi:type="model:Label" id="13" x="158" y="176" text="Employee status:" measuredWidth="94" measuredHeight="23">
@@ -59,10 +59,7 @@
   <widgets xsi:type="model:Label" id="16" x="158" y="272" text="Target start date:" measuredWidth="94" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="17" x="158" y="304" text="Employee referal:" measuredWidth="96" measuredHeight="23">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:Label" id="20" x="158" y="400" text="Job description:" measuredWidth="88" measuredHeight="23">
+  <widgets xsi:type="model:Label" id="20" x="158" y="458" text="Job description:" measuredWidth="88" measuredHeight="23">
     <font/>
   </widgets>
   <widgets xsi:type="model:TextField" id="21" x="312" y="176" width="233" text="#123456" measuredWidth="233" measuredHeight="23">
@@ -75,45 +72,48 @@
     <font/>
   </widgets>
   <widgets xsi:type="model:DateField" id="30" x="312" y="272" width="233" text=" 02 /02  /  2015" measuredWidth="233" measuredHeight="23"/>
-  <widgets xsi:type="model:TextField" id="31" x="360" y="304" width="233" text="Nastradin Hoxha" measuredWidth="233" measuredHeight="23">
+  <widgets xsi:type="model:Label" id="35" x="158" y="392" text="Job opening date:" measuredWidth="99" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="32" x="321" y="304" text="Name:" measuredWidth="40" measuredHeight="23">
+  <widgets xsi:type="model:DateField" id="36" x="312" y="392" width="233" text=" 02 /02  /  2015" measuredWidth="233" measuredHeight="23"/>
+  <widgets xsi:type="model:Label" id="37" x="158" y="426" text="Job closing date:" measuredWidth="93" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="33" x="592" y="304" text="Bonus:" measuredWidth="41" measuredHeight="23">
+  <widgets xsi:type="model:DateField" id="38" x="312" y="426" width="233" text=" 02 /02  /  2015" measuredWidth="233" measuredHeight="23"/>
+  <widgets xsi:type="model:TextArea" id="39" x="312" y="466" width="377" height="65" text="A *paragraph* of text  text  text  text  text  text  text  text  text  text  text &#xA;A _second_ row of text text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text ." measuredWidth="377" measuredHeight="65">
     <font/>
   </widgets>
-  <widgets xsi:type="model:TextField" id="34" x="632" y="304" width="57" text="20" measuredWidth="57" measuredHeight="23">
+  <widgets xsi:type="model:Label" id="40" x="158" y="538" text="Job qualifications required:" measuredWidth="147" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="35" x="158" y="334" text="Job opening date:" measuredWidth="99" measuredHeight="23">
+  <widgets xsi:type="model:TextArea" id="42" x="312" y="538" width="377" text="-Requirement 1&#xD;&#xA;-Requirement 2&#xD;&#xA;-Requirement 3" measuredWidth="377" measuredHeight="49">
     <font/>
   </widgets>
-  <widgets xsi:type="model:DateField" id="36" x="312" y="334" width="233" text=" 02 /02  /  2015" measuredWidth="233" measuredHeight="23"/>
-  <widgets xsi:type="model:Label" id="37" x="158" y="368" text="Job closing date:" measuredWidth="93" measuredHeight="23">
+  <widgets xsi:type="model:Label" id="43" x="158" y="594" text="Contact name:" measuredWidth="83" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:DateField" id="38" x="312" y="368" width="233" text=" 02 /02  /  2015" measuredWidth="233" measuredHeight="23"/>
-  <widgets xsi:type="model:TextArea" id="39" x="312" y="408" width="377" height="65" text="A *paragraph* of text  text  text  text  text  text  text  text  text  text  text &#xA;A _second_ row of text text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text  text ." measuredWidth="377" measuredHeight="65">
+  <widgets xsi:type="model:Label" id="44" x="158" y="626" text="Contact e-mail:" measuredWidth="87" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="40" x="158" y="480" text="Job qualifications required:" measuredWidth="147" measuredHeight="23">
+  <widgets xsi:type="model:TextField" id="45" x="312" y="594" width="233" text="Nastradin Hoxha" measuredWidth="233" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:TextArea" id="42" x="312" y="480" width="377" text="-Requirement 1&#xD;&#xA;-Requirement 2&#xD;&#xA;-Requirement 3" measuredWidth="377" measuredHeight="49">
+  <widgets xsi:type="model:TextField" id="46" x="312" y="626" width="233" text="nastradin@deloitte.com" measuredWidth="233" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="43" x="158" y="536" text="Contact name:" measuredWidth="83" measuredHeight="23">
+  <widgets xsi:type="model:Group" id="47" x="145" y="294" width="408" height="91" text="Emplyee referral" measuredWidth="408" measuredHeight="91">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="44" x="158" y="568" text="Contact e-mail:" measuredWidth="87" measuredHeight="23">
+  <widgets xsi:type="model:TextField" id="31" x="312" y="317" width="233" text="Nastradin Hoxha" measuredWidth="233" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:TextField" id="45" x="312" y="536" width="233" text="Nastradin Hoxha" measuredWidth="233" measuredHeight="23">
+  <widgets xsi:type="model:Label" id="32" x="155" y="317" text="Name:" measuredWidth="40" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:TextField" id="46" x="312" y="568" width="233" text="nastradin@deloitte.com" measuredWidth="233" measuredHeight="23">
+  <widgets xsi:type="model:Label" id="33" x="155" y="344" text="Bonus:" measuredWidth="41" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="34" x="312" y="344" width="57" text="20" measuredWidth="57" measuredHeight="23">
     <font/>
   </widgets>
   <hRuler/>
