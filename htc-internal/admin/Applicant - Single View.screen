@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Browser" id="1" x="16" y="16" width="769" height="521" text="Browser&#xA;http://..." measuredWidth="769" measuredHeight="521"/>
+  <widgets xsi:type="model:Browser" id="1" x="16" y="16" width="769" height="577" text="Browser&#xA;http://..." measuredWidth="769" measuredHeight="577"/>
   <widgets xsi:type="model:List" id="2" x="26" y="138" width="89" height="197" text="Add&#xD;&#xA;View" measuredWidth="89" measuredHeight="197" selection="1">
     <font/>
     <items x="0" y="2" width="89" height="21" text="Add"/>
@@ -37,7 +37,7 @@
     <items x="162" y="0" width="61" height="23" text="Experience "/>
     <items x="241" y="0" width="23" height="23" text="ETC"/>
   </widgets>
-  <widgets xsi:type="model:Button" id="12" x="724" y="502" text="Next >" measuredWidth="55" measuredHeight="25">
+  <widgets xsi:type="model:Button" id="12" x="725" y="558" text="Next >" measuredWidth="55" measuredHeight="25">
     <font/>
   </widgets>
   <widgets xsi:type="model:Label" id="13" x="158" y="176" text="Name:" measuredWidth="40" measuredHeight="23">
@@ -91,10 +91,19 @@
   <widgets xsi:type="model:Text" id="29" x="322" y="109" width="463" height="25" text="You are viewing applicant nr #123456, Title: IT Technician, Name: Nastradin Hoxha" measuredWidth="463" measuredHeight="25">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Combo" id="34" x="240" y="503" text="Edit, Download this part, Download Candidate" measuredWidth="267" measuredHeight="23">
+  <widgets xsi:type="model:Combo" id="34" x="456" y="502" text="Edit" measuredWidth="44" measuredHeight="23">
     <font/>
   </widgets>
   <widgets xsi:type="model:Button" id="35" x="512" y="502" text="Apply" measuredWidth="51" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="36" x="411" y="537" text="Europass CV" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="37" x="512" y="536" text="Apply" measuredWidth="51" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="38" x="322" y="537" text="Convert this to:" measuredWidth="86" measuredHeight="23">
     <font/>
   </widgets>
   <hRuler/>

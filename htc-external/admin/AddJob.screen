@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
   <widgets xsi:type="model:Image" id="1" x="156" y="190"/>
-  <widgets xsi:type="model:Browser" id="2" x="16" y="16" width="713" height="929" text="Browser&#xA;http://..." measuredWidth="713" measuredHeight="929" verticalScrollbar="true"/>
+  <widgets xsi:type="model:Browser" id="2" x="16" y="8" width="713" height="937" text="Browser&#xA;http://..." measuredWidth="713" measuredHeight="937" verticalScrollbar="true"/>
   <widgets xsi:type="model:HLine" id="3" x="16" y="112" width="713" measuredWidth="713" measuredHeight="6"/>
   <widgets xsi:type="model:Label" id="4" x="32" y="78" text="Human Capital Tracker - Admin Section" measuredWidth="216" measuredHeight="23">
     <font/>

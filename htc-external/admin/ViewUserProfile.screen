@@ -44,7 +44,7 @@
   <widgets xsi:type="model:Label" id="25" x="113" y="946" text="2013-2015" measuredWidth="58" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Link" id="26" x="699" y="989" text="Add" measuredWidth="25" measuredHeight="23">
+  <widgets xsi:type="model:Link" id="26" x="699" y="989" text="Edit" measuredWidth="23" measuredHeight="23">
     <font/>
   </widgets>
   <widgets xsi:type="model:Label" id="27" x="113" y="973" text="Concentration in High Layer Network Protocols and Network Security." measuredWidth="374" measuredHeight="23">
@@ -89,6 +89,18 @@
     <items x="0" y="0" width="57" height="27" text="Home "/>
     <items x="57" y="0" width="57" height="27" text="Profile "/>
     <items x="114" y="0" width="59" height="27" text="Logout"/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="48" x="579" y="194" text="Convert to Europass CV" measuredWidth="148" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="49" x="616" y="229" text="Downlaod as:" measuredWidth="76" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="50" x="632" y="166" text="Convert:" measuredWidth="50" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="51" x="632" y="251" text="PDF" measuredWidth="45" measuredHeight="23">
+    <font/>
   </widgets>
   <hRuler/>
   <vRuler/>
